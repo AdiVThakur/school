@@ -221,7 +221,7 @@ export default function Home() {
               </span>
 
               <h3 style={{ fontSize: '1.25rem', fontWeight: '700', color: '#0f172a', margin: '0 0 0.25rem 0' }}>
-                श्री. [मुख्याध्यापकांचे नाव]
+                श्री. सावंत अंगद सुधाकरराव
               </h3>
 
               <p style={{ fontSize: '0.9rem', fontWeight: '600', color: '#ea580c', margin: '0 0 0.75rem 0' }}>
